@@ -6,3 +6,8 @@ print("Hello world")
 # interpreter language-->line by line code interprete
 # byte code is not machine code
 
+for c in "chai":
+    print(c)
+
+# mutabel-->we can change after they are created.(List, Dictionary, Set)
+# immutable-->we cannt change after they are created.(Tuple,String,Frozenset)
