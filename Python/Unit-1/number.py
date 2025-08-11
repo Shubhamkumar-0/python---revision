@@ -26,3 +26,8 @@ string_to_float = float("3.14")  # 3.14
 binary_value = bin(10)  # '0b1010'
 octal_value = oct(10)   # '0o12'
 hexadecimal_value = hex(10)  # '0xa'
+
+
+x,y,z=2,3,4
+m=x<y<z #x<y and y<z  --->true
+
